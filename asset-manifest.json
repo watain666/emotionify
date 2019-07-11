@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27548ef9.chunk.css",
+    "main.js": "/static/js/main.d7f2c3e5.chunk.js",
+    "main.js.map": "/static/js/main.d7f2c3e5.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.197612f5.chunk.js": "/static/js/2.197612f5.chunk.js",
+    "static/js/2.197612f5.chunk.js.map": "/static/js/2.197612f5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fb929b9cfb659b5e9d99755f68b0738a.js": "/precache-manifest.fb929b9cfb659b5e9d99755f68b0738a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.27548ef9.chunk.css.map": "/static/css/main.27548ef9.chunk.css.map",
+    "static/media/banner.png": "/static/media/banner.ed08e733.png",
+    "static/media/sort-comparison.png": "/static/media/sort-comparison.5fbd2110.png",
+    "static/media/spotify-logo-round.png": "/static/media/spotify-logo-round.d154494c.png"
+  }
+}
