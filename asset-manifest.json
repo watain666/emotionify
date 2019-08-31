@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.b86f500f.chunk.css",
-    "main.js": "/static/js/main.ece4925f.chunk.js",
+    "main.js": "/static/js/main.24df46f1.chunk.js",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "static/js/2.6f81df33.chunk.js": "/static/js/2.6f81df33.chunk.js",
+    "static/js/2.5bd5159a.chunk.js": "/static/js/2.5bd5159a.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.b28d9b95b674ef01b93c3d88f45469e2.js": "/precache-manifest.b28d9b95b674ef01b93c3d88f45469e2.js",
+    "precache-manifest.4fe7dbb23f039d227256504dd3403a4e.js": "/precache-manifest.4fe7dbb23f039d227256504dd3403a4e.js",
     "service-worker.js": "/service-worker.js",
     "static/media/banner.png": "/static/media/banner.ed08e733.png",
-    "static/media/sort-comparison.png": "/static/media/sort-comparison.5fbd2110.png",
-    "static/media/spotify-logo-round.png": "/static/media/spotify-logo-round.d154494c.png"
+    "static/media/sort-page-demo.png": "/static/media/sort-page-demo.5fbd2110.png",
+    "static/media/spotify-logo-round.png": "/static/media/spotify-logo-round.d154494c.png",
+    "static/media/tools-page-demo.png": "/static/media/tools-page-demo.9583acbe.png"
   }
 }

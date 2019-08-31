@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01e2a730d13b0f055c5bee5ea9f8dae5",
+    "revision": "49043d608564de921ac22f062e92f879",
     "url": "/index.html"
   },
   {
-    "revision": "9ffa635bbf53e79a3bc2",
+    "revision": "1caf9d05edd76e70c91e",
     "url": "/static/css/main.b86f500f.chunk.css"
   },
   {
-    "revision": "6a910ae9c2456045e8f7",
-    "url": "/static/js/2.6f81df33.chunk.js"
+    "revision": "9cedea2d39acf7ed0510",
+    "url": "/static/js/2.5bd5159a.chunk.js"
   },
   {
-    "revision": "9ffa635bbf53e79a3bc2",
-    "url": "/static/js/main.ece4925f.chunk.js"
+    "revision": "1caf9d05edd76e70c91e",
+    "url": "/static/js/main.24df46f1.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -25,10 +25,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "5fbd211044c8a5a2ee79cdf62eb0d13f",
-    "url": "/static/media/sort-comparison.5fbd2110.png"
+    "url": "/static/media/sort-page-demo.5fbd2110.png"
   },
   {
     "revision": "d154494c9913b044d7a2abb63ee91828",
     "url": "/static/media/spotify-logo-round.d154494c.png"
+  },
+  {
+    "revision": "9583acbec2d7fd2f37db366cff199eb9",
+    "url": "/static/media/tools-page-demo.9583acbe.png"
   }
 ]);
